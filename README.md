@@ -1,2 +1,2 @@
 # test-history
-Hello word
+Hello friend
